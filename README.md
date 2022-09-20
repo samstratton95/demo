@@ -1,7 +1,3 @@
-# This is a test for Bioinf 575
+Repo for BIOINF 575 to test git commands
 
-demo     test
-
-new line
-
-test for commit
+We use this for class sessions 4 and 5 but also for homework 1
